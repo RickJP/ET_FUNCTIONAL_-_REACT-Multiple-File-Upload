@@ -1,0 +1,3 @@
+module.exports = {
+  db: 'mongodb://<USERNAME_AND_PASSWORD_GO_HERE>@localhost:27017/multiple-ul',
+};
